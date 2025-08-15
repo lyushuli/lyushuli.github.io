@@ -11,7 +11,7 @@
 
 - Beijing Outstanding Undergraduate Thesis Award​​ (Top Tier, 2022)
 
-- ​​BUAA Honor Student​​ | ​​Outstanding Student Representative​​ (Graduate School, 2022)
+- ​​Beihang Honor Student​​​ (2022)
 
 - ​Undergraduate ​National Scholarship​​ (2021)
 
