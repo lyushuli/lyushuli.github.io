@@ -1,16 +1,17 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- Y. Zhang, <strong>S. Lv</strong>*, K. Liu, Q. Liang, Q. Quan, and Z. She (2025). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, under review). [Paper]
+
+- P. Mao, <strong>S. Lv</strong>*, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review). [Paper]
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. [Paper]
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>2023 IEEE International Conference on Robotics and Automation (ICRA)</strong>, London, United Kingdom, 3197-3203. [Paper]
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong> (Accepted). [Paper]
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- P. Mao, <strong>S. Lv</strong>, and Q. Quan (2025). Tube-RRT: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments. <strong>IEEE Robotics and Automation Letters</strong>, 10(3), 2247-2254. [Paper]
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- 全权, 高文瀚, 刘润潇, 陈鑫泉, 戴训华, <strong>吕书礼</strong>, 徐琳, 李悦 (2025). 微小型固定翼无人机飞行控制设计与实践. <strong>电子工业出版社</strong>. [Book](本人为第八章作者/负责人)

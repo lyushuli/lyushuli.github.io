@@ -2,16 +2,18 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Shuli Lv received the B.S. degree in SHENYUAN Honors College of Beihang University, Beijing, China, in 2022. He is currently pursuing Ph.D. degree in control science and engineering with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His main research interests include UAV navigation, planning and control.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: lvshuli[at].buaa.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. Student,  School of Automation Science and Electrical Engineering, Beihang University, 2024-now.
+\
+M.S.,  School of Automation Science and Electrical Engineering, Beihang University, 2022—2024.\
+B.S., SHENYUAN Honors College, Beihang University, 2018-2022. GPA: 3.90 (Top 2%)
 
-#### Research Interests
+#### Research Interests             
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
