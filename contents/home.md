@@ -1,6 +1,7 @@
 
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuli-Lv/research)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YXrppsYAAAAJ&hl=en)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 Shuli Lv received the B.S. degree in SHENYUAN Honors College of Beihang University, Beijing, China, in 2022. He is currently pursuing Ph.D. degree in control science and engineering with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His main research interests include UAV navigation, planning and control.
 
