@@ -4,7 +4,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1854-6488)
 
 
-Shuli Lv received the B.S. degree in SHENYUAN Honors College of Beihang University, Beijing, China, in 2022. He is currently pursuing Ph.D. degree in control science and engineering with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China.
+I, Shuli Lv, am a PhD candidate at Rfly Lab of Beihang University. My supervisor is Prof. Quan Quan. I proposed the concept of time-optimal spatial iterative learning for robotic navigation. My research direction is to introduce functional variation to enable iterative learning to handle navigation problems, and further implement engineering in single/multi-agent intelligence.
 
 #### Contact
 
