@@ -21,12 +21,12 @@
 
 - <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
 
-- <strong>​Undergraduate ​National Scholarship</strong>​​ (2021, Top 2%)
+- <strong>​Undergraduate ​National Scholarship</strong>​​ (2021, Top 1%)
 
 - ​​CETC The 14TH Research Institute Glarun Scholarship (2024)
 
 - Two-time Recipient: Outstanding students from Beihang University (2020, 2021, Top 5%)
 
-- Two-time Recipient: Academic Excellence Award of Beihang University (Grand Award) (2020, 2021)
+- Two-time Recipient: Academic Excellence Award of Beihang University (Grand Award) (2020, 2021, 3%)
 
 - Two-time Recipient: Academic Competition Award of the Beihang University (Grand Award) (2020, 2021)
