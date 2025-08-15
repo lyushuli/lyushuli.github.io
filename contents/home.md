@@ -6,7 +6,7 @@ Shuli Lv received the B.S. degree in SHENYUAN Honors College of Beihang Universi
 
 #### Contact
 
-Email: lvshuli[at].buaa.edu.cn
+Email: lvshuli@.buaa.edu.cn
 
 #### Education
 Ph.D. Student,  School of Automation Science and Electrical Engineering, Beihang University, 2024-now.
