@@ -8,7 +8,7 @@
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
 
 - <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>2023 IEEE International Conference on Robotics and Automation (ICRA)</strong>, London, United Kingdom, 3197-3203. 
-[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10161383) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2306.15992) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=qGTPGCLu2UQ&t=6s)
+[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10161383) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2306.15992) [![Code](https://img.shields.io/badge/Code-blue)](https://gitee.com/rfly_buaa/control-within-virtual-tubes) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=qGTPGCLu2UQ&t=6s)
 
 - P. Mao, <strong>S. Lv</strong>, and Q. Quan (2025). Tube-RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments. <strong>IEEE Robotics and Automation Letters</strong>, 10(3), 2247-2254. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10844529/)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2404.09200) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/MorePanda123/TubeRRT) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=xDccyfEWrNc)
 
