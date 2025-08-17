@@ -22,6 +22,6 @@
 
 #### Coming soon
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. VIP: variation based iterative learning planning for robotic navigation.
+- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
 
 - <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor.
