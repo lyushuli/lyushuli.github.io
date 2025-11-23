@@ -3,7 +3,7 @@
 - <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong> (Accepted). 
 [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=2SIlN8J5JVo)
 
-<img src="/assets/img/High-tro.png" alt="Paper image" class="pub-img">
+<img src="/assets/img/High-tro.png" alt="" class="pub-img">
 
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
