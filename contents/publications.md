@@ -16,12 +16,13 @@
 
 #### Submitted
 
-- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2025). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
+- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2025). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, conditionally accept). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
 
 - P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
+
+- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, under review).
 
 #### Coming soon
 
 - <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor.
