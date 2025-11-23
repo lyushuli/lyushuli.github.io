@@ -3,7 +3,7 @@
 - <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong> (Accepted). 
 [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=2SIlN8J5JVo)
 
-<img src="/assets/img/High-tro.png" alt="" class="pub-img">
+<img src="/static/assets/img/High-tro.png" alt="" class="pub-img">
 
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
@@ -21,7 +21,7 @@
 
 - P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, under review).
+- <strong>S. Lv</strong>, P. Mao, C. Min, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, under review).
 
 #### Coming soon
 
