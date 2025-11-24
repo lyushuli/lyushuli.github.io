@@ -2,8 +2,20 @@
 
 - ​<strong>​National Grand Award​ (1st Place)</strong>, 19th "Challenge Cup" Competition for "drone swarm search in a denied environment" (Team Leader, 2024) [![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/64028.htm)
 
+<div class="image-row">
+    <img src="/static/assets/img/tzb-award.jpg" alt="" class="pub-img">
+    <img src="/static/assets/img/tzb-drone.jpg" alt="" class="pub-img">
+    <img src="/static/assets/img/tzb-photo.jpg" alt="" class="pub-img">
+</div>
 
 - ​<strong>​National Champion​​ (1st Prize)</strong>, RoboMaster UAV Intelligent Perception Competition(2022, also won the 2nd Prizein Autonomous Flight | 3rd Prizein Speed Challenge | Open-Source Innovation Award) [![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/57482.htm)  [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/RflyBUAA/zzfly-2022-real-share)
+
+<div class="image-row">
+    <img src="/static/assets/img/robmaster1.png" alt="" class="pub-img" style="height:200px">
+    <img src="/static/assets/img/robmaster2.png" alt="" class="pub-img" style="height:200px">
+    <img src="/static/assets/img/robmaster3.png" alt="" class="pub-img" style="height:200px">
+    <img src="/static/assets/img/robmaster4.png" alt="" class="pub-img" style="height:200px">
+</div>
 
 - ​​National First Prize​​, 11th Chinese Mathematics Competition (2021)
 

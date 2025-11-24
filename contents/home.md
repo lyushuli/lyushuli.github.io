@@ -17,5 +17,5 @@ M.S.,  School of Automation Science and Electrical Engineering, Beihang Universi
 B.S., SHENYUAN Honors College, Beihang University, 2018-2022. GPA: 3.90 (Rank 2)
 
 #### Research Interests             
-UAV navigation, planning and control. Virtual tube. Iterative learning.
+UAV navigation, Planning and control. Virtual tube. Iterative learning.
 

@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>,  41, 5624-5644. 
+- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>,  41, 5624-5644. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11164953)
 [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=2SIlN8J5JVo)
 
 <div class="image-row">
@@ -59,6 +59,13 @@
 <div class="image-row">
     <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
+</div>
+
+- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan. Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. (Submitted to <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, under review).
+
+<div class="image-row">
+    <img src="/static/assets/img/planar-icra-drone.png" alt="" class="pub-img">
+    <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
 </div>
 
 #### Coming soon
