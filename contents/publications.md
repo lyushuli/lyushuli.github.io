@@ -12,6 +12,7 @@
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
 
 <div class="image-row">
+    <img src="/static/assets/img/mean-lcss-tube.png" alt="" class="pub-img">
     <img src="/static/assets/img/mean-lcss.png" alt="" class="pub-img">
 </div>
 
