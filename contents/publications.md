@@ -23,13 +23,18 @@
 
 - P. Mao, <strong>S. Lv</strong>, and Q. Quan (2025). Tube-RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments. <strong>IEEE Robotics and Automation Letters</strong>, 10(3), 2247-2254. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10844529/)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2404.09200) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/MorePanda123/TubeRRT) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=xDccyfEWrNc)
 
-<div class="image-row"> class="image-row">
+<div class="image-row">
     <img src="/static/assets/img/tube-ral-sim,png" alt="" class="pub-img">
     <img src="/static/assets/img/tube-ral-exp1.png" alt="" class="pub-img">
     <img src="/static/assets/img/tube-ral-exp-multi.png" alt="" class="pub-img">
 </div>
 
 - 全权, 高文瀚, 刘润潇, 陈鑫泉, 戴训华, <strong>吕书礼</strong>, 徐琳, 李悦 (2025). 微小型固定翼无人机飞行控制设计与实践. <strong>电子工业出版社</strong>. [![PHEI Book](https://img.shields.io/badge/Buy-2A5CAA?logo=azurepipelines&logoColor=white)](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=67746) [![Code](https://img.shields.io/badge/Code-blue)](https://rflysim.com/doc/zh/C/5.FW_Book.html)
+
+<div class="image-row">
+    <img src="/static/assets/img/fixed-wing-book.png" alt="" class="pub-img">
+    <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
+</div>
 
 #### Submitted
 

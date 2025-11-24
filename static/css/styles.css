@@ -10917,7 +10917,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .pub-img {
-    height: 80px; /* 设置统一高度 */
+    height: 300px; /* 设置统一高度 */
     margin-right: 8px; /* 图像之间的间距 */
     width: auto;        /* 保持纵横比 */
 }
