@@ -10,6 +10,7 @@
 
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
+
 <div class="image-row">
     <img src="/static/assets/img/mean-lcss.png" alt="" class="pub-img">
 </div>
@@ -26,7 +27,6 @@
 
 <div class="image-row">
     <img src="/static/assets/img/tube-ral-sim,png" alt="" class="pub-img">
-    <img src="/static/assets/img/tube-ral-exp1.png" alt="" class="pub-img">
     <img src="/static/assets/img/tube-ral-exp-multi.png" alt="" class="pub-img">
 </div>
 
@@ -41,9 +41,24 @@
 
 - Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2025). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, conditionally accept). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
 
+<div class="image-row">
+    <img src="/static/assets/img/navigating-tcst-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
+</div>
+
 - P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
 
+<div class="image-row">
+    <img src="/static/assets/img/efficient-mao-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/efficient-mao-exp.png" alt="" class="pub-img">
+</div>
+
 - <strong>S. Lv</strong>, P. Mao, C. Min, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, under review).
+
+<div class="image-row">
+    <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
+</div>
 
 #### Coming soon
 
