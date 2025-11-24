@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 /*!
 * Start Bootstrap - New Age v6.0.7 (https://startbootstrap.com/theme/new-age)
 * Copyright 2013-2023 Start Bootstrap
@@ -10911,19 +10912,31 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 /* ...existing code... */
-.image-row {
-    display: flex; /* 使用 flexbox 布局 */
-    align-items: center; /* 垂直居中对齐 */
+/* Publications page image-row styles (moved from contents/publications.md) */
+.image-row{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center; /* 水平居中 */
+  gap:8px;
+  align-items:center;
 }
+.image-row img.pub-img,
+.image-row img{
+  height:88px;      /* 统一行高，可根据需要调整 */
+  width:auto;
+  object-fit:cover;
+  border-radius:4px;
+  display:block;
+}
+@media (max-width:640px){
+  .image-row img.pub-img, .image-row img{height:64px}
+}
+
 
 .pub-img {
     height: 250px; /* 设置统一高度 */
     margin-right: 8px; /* 图像之间的间距 */
     width: auto;        /* 保持纵横比 */
 }
-
-/* 右对齐或左对齐示例 */
-.pub-img--right { float: right; margin: 0 0 8px 16px; max-width: 40%; }
-.pub-img--left  { float: left;  margin: 0 16px 8px 0; max-width: 40%; }
 /* ...existing code... */
 
