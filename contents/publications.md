@@ -38,12 +38,20 @@
     <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
 </div>
 
-- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2025). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, accept). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
+- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, accept). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
 
 <div class="image-row">
     <img src="/static/assets/img/navigating-tcst-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
 </div>
+
+- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, accept)
+
+<div class="image-row">
+    <img src="/static/assets/img/distributed-tnse-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/distributed-tnse-exp.png" alt="" class="pub-img">
+</div>
+
 
 #### Submitted
 

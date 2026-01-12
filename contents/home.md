@@ -4,7 +4,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1854-6488)
 
 
-I, Shuli Lv, am a PhD candidate at Rfly Lab (rfly.buaa.edu.cn) of Beihang University. My supervisor is Prof. Quan Quan. I proposed the concept of time-optimal spatial iterative learning for robotic navigation. My research direction is to introduce functional variation to enable iterative learning to handle navigation problems, and further implement engineering in single/multi-agent intelligence.
+I, Shuli Lv, am a PhD candidate at Rfly Lab (rfly.buaa.edu.cn) of Beihang University. My supervisor is Prof. Quan Quan. I proposed the concept of time-optimal spatial iterative learning for robotic navigation. My research direction is to introduce functional variation to enable iterative learning and diffusion to handle navigation problems, and further implement engineering in single/multi-agent intelligence.
 
 #### Contact
 

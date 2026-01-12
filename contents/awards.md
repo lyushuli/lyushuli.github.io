@@ -25,7 +25,9 @@
 
 #### Scholarship and Honor
 
-- Beihang University 2024 Outstanding Student Award
+- SEGWAY-NINEBOT scholarship (Grand Prize) (2025)
+
+- Beihang University Outstanding Student Award (2024, 2025)
 
 - Student Representative of the Freshman Class (School of Automation Science and Electrical Engineering, Beihang University)
 
