@@ -46,7 +46,7 @@
     <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
 </div>
 
-- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, early access) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11252988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
+- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, early access) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11352988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
 
 <div class="image-row">
     <img src="/static/assets/img/distributed-tnse-sim.png" alt="" class="pub-img">
