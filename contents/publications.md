@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>,  41, 5624-5644. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11164953)
+- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>,  41, 5624-5644. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11164953)
 [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=2SIlN8J5JVo)
 
 <div class="image-row">
@@ -9,7 +9,7 @@
 </div>
 
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
-[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10589420)
+[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10589420)
 
 <div class="image-row">
     <img src="/static/assets/img/mean-lcss-tube.png" alt="" class="pub-img">
@@ -17,7 +17,7 @@
 </div>
 
 - <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>2023 IEEE International Conference on Robotics and Automation (ICRA)</strong>, London, United Kingdom, 3197-3203. 
-[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10161383) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2306.15992) [![Code](https://img.shields.io/badge/Code-blue)](https://gitee.com/rfly_buaa/control-within-virtual-tubes) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=qGTPGCLu2UQ&t=6s)
+[![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10161383) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2306.15992) [![Code](https://img.shields.io/badge/Code-blue)](https://gitee.com/rfly_buaa/control-within-virtual-tubes) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=qGTPGCLu2UQ&t=6s)
 
 <div class="image-row">
     <img src="/static/assets/img/autonomous-icra.png" alt="" class="pub-img">
@@ -38,14 +38,15 @@
     <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
 </div>
 
-- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, accept). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation)
+- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, early access). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11353120/)
+
 
 <div class="image-row">
     <img src="/static/assets/img/navigating-tcst-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
 </div>
 
-- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, accept)
+- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, early access) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11252988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
 
 <div class="image-row">
     <img src="/static/assets/img/distributed-tnse-sim.png" alt="" class="pub-img">
