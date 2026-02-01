@@ -46,7 +46,7 @@
     <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
 </div>
 
-- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. (Submitted to <i>IEEE Transactions on Network Science and Engineering</i>, early access) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11352988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
+- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. <strong>IEEE Transactions on Network Science and Engineering</strong>, 13, 5905-5923. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11352988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
 
 <div class="image-row">
     <img src="/static/assets/img/distributed-tnse-sim.png" alt="" class="pub-img">
@@ -54,7 +54,21 @@
 </div>
 
 
+- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan. Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. (Submitted to <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, accept).
+
+<div class="image-row">
+    <img src="/static/assets/img/planar-icra-drone.png" alt="" class="pub-img">
+    <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
+</div>
+
+
 #### Submitted
+- <strong>S. Lv</strong>, P. Mao, C. Min, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, major revision).
+
+<div class="image-row">
+    <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
+</div>
 
 - P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
 
@@ -63,21 +77,14 @@
     <img src="/static/assets/img/efficient-mao-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, major revision).
 
-<div class="image-row">
-    <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
-    <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
-</div>
 
-- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan. Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. (Submitted to <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, under review).
-
-<div class="image-row">
-    <img src="/static/assets/img/planar-icra-drone.png" alt="" class="pub-img">
-    <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
-</div>
 
 #### Coming soon
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
+
+- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube.
+
+- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, C. He, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopter Based on Variational Iterative Learning Planning.
 
