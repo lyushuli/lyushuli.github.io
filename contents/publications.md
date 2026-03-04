@@ -38,7 +38,7 @@
     <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
 </div>
 
-- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control. <strong>arXiv preprint arXiv:2501.11938</strong> (Submitted to <i>IEEE Transactions on Control System Technology</i>, early access). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11353120/)
+- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control.  <strong>IEEE Transactions on Control System Technology</strong>, 34(2), 1082-1088. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11353120/)
 
 
 <div class="image-row">
@@ -63,7 +63,7 @@
 
 
 #### Submitted
-- <strong>S. Lv</strong>, P. Mao, C. Min, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, major revision).
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, major revision).
 
 <div class="image-row">
     <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">

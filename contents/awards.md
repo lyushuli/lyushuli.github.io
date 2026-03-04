@@ -35,7 +35,7 @@
 
 - <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
 
-- <strong>​Undergraduate ​National Scholarship</strong>​​ (2021, Top 1%)
+- <strong>​National Scholarship</strong>​​ (2021, Top 1%)
 
 - ​​CETC The 14TH Research Institute Glarun Scholarship (2024)
 
