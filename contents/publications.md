@@ -77,14 +77,17 @@
     <img src="/static/assets/img/efficient-mao-exp.png" alt="" class="pub-img">
 </div>
 
+- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube.  (Submitted to <i>IEEE Robotics and Automation Letters</i>).
 
-
+<div class="image-row">
+    <img src="/static/assets/img/energy-drone.png" alt="" class="pub-img">
+    <img src="/static/assets/img/energy-real.png" alt="" class="pub-img">
+</div>
 
 #### Coming soon
 
 - <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
 
-- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube.
 
 - H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, C. He, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopter Based on Variational Iterative Learning Planning.
 
