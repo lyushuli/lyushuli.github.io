@@ -63,7 +63,7 @@
 
 
 #### Submitted
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, major revision).
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, conditionally accept).
 
 <div class="image-row">
     <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
@@ -84,10 +84,18 @@
     <img src="/static/assets/img/energy-real.png" alt="" class="pub-img">
 </div>
 
+
+- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>).
+
+<div class="image-row">
+    <img src="/static/assets/img/landing-tie-drone.png" alt="" class="pub-img">
+    <img src="/static/assets/img/landing-tie-real.png" alt="" class="pub-img">
+</div>
+
+
+
 #### Coming soon
 
 - <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
 
-
-- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, C. He, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopter Based on Variational Iterative Learning Planning.
 
