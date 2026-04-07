@@ -43,6 +43,45 @@ window.addEventListener('DOMContentLoaded', event => {
                 }
 
             })
+
+            // Google Analytics (optional)
+            try {
+                const measurementId = (yml['ga-measurement-id'] || '').toString().trim();
+                if (measurementId) {
+                    const gaScript = document.createElement('script');
+                    gaScript.async = true;
+                    gaScript.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(measurementId)}`;
+                    document.head.appendChild(gaScript);
+
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag() { window.dataLayer.push(arguments); }
+                    window.gtag = gtag;
+                    gtag('js', new Date());
+                    gtag('config', measurementId);
+                }
+            } catch (error) {
+                console.log('Google Analytics init failed:', error);
+            }
+
+            // Visualization embed (optional, usually Looker Studio)
+            try {
+                const iframeUrl = (yml['analytics-iframe-url'] || '').toString().trim();
+                const iframeHeight = (yml['analytics-iframe-height'] || '56.25%').toString().trim();
+                const iframeEl = document.getElementById('analytics-iframe');
+                const ratioEl = document.getElementById('analytics-ratio');
+                if (iframeEl && ratioEl && iframeUrl) {
+                    iframeEl.src = iframeUrl;
+                    ratioEl.style.setProperty('--bs-aspect-ratio', iframeHeight);
+                } else if (iframeEl && ratioEl) {
+                    ratioEl.style.display = 'none';
+                    const noteEl = document.getElementById('analytics-note');
+                    if (noteEl) {
+                        noteEl.innerHTML = 'Visualization is ready. Please set analytics-iframe-url in contents/config.yml to show your Looker Studio dashboard.';
+                    }
+                }
+            } catch (error) {
+                console.log('Analytics visualization init failed:', error);
+            }
         })
         .catch(error => console.log(error));
 
