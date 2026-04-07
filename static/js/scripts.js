@@ -69,15 +69,12 @@ window.addEventListener('DOMContentLoaded', event => {
                 const iframeHeight = (yml['analytics-iframe-height'] || '56.25%').toString().trim();
                 const iframeEl = document.getElementById('analytics-iframe');
                 const ratioEl = document.getElementById('analytics-ratio');
+                const analyticsSection = document.getElementById('analytics');
                 if (iframeEl && ratioEl && iframeUrl) {
                     iframeEl.src = iframeUrl;
                     ratioEl.style.setProperty('--bs-aspect-ratio', iframeHeight);
-                } else if (iframeEl && ratioEl) {
-                    ratioEl.style.display = 'none';
-                    const noteEl = document.getElementById('analytics-note');
-                    if (noteEl) {
-                        noteEl.innerHTML = 'Visualization is ready. Please set analytics-iframe-url in contents/config.yml to show your Looker Studio dashboard.';
-                    }
+                } else if (analyticsSection) {
+                    analyticsSection.style.display = 'none';
                 }
             } catch (error) {
                 console.log('Analytics visualization init failed:', error);
