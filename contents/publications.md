@@ -8,6 +8,14 @@
     <img src="static/assets/img/High-tro-exp.png" alt="" class="pub-img">
 </div>
 
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, accept).
+
+<div class="image-row">
+    <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
+    <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
+</div>
+
+
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10589420)
 
@@ -63,12 +71,6 @@
 
 
 #### Submitted
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, conditionally accept).
-
-<div class="image-row">
-    <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
-    <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
-</div>
 
 - P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
 
@@ -91,7 +93,6 @@
     <img src="/static/assets/img/landing-tie-drone.png" alt="" class="pub-img">
     <img src="/static/assets/img/landing-tie-real.png" alt="" class="pub-img">
 </div>
-
 
 
 #### Coming soon
