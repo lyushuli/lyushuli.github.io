@@ -3,6 +3,20 @@
 
 :root{
     --h-title-color:#3948d2;
+    --page-max-width-xl: 1260px;
+    --page-max-width-xxl: 1520px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: var(--page-max-width-xl);
+    }
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: var(--page-max-width-xxl);
+    }
 }
 
 .header {
