@@ -8,7 +8,7 @@
     <img src="static/assets/img/High-tro-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan. Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, accept).
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, accept).
 
 <div class="image-row">
     <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
@@ -39,9 +39,14 @@
     <img src="/static/assets/img/tube-ral-exp-multi.png" alt="" class="pub-img">
 </div>
 
+- Q. Quan, W. Gao, R. Liu, X. Chen, X. Dai, <strong>S. Lv</strong>, L. Xu, Y. Li (2026). Micro-Small Fixed-Wing UAV Control: Design and Practice. <strong>Springer, Singapore</strong>. [![PHEI Book](https://img.shields.io/badge/Book-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5)
+
 - 全权, 高文瀚, 刘润潇, 陈鑫泉, 戴训华, <strong>吕书礼</strong>, 徐琳, 李悦 (2025). 微小型固定翼无人机飞行控制设计与实践. <strong>电子工业出版社</strong>. [![PHEI Book](https://img.shields.io/badge/Buy-2A5CAA?logo=azurepipelines&logoColor=white)](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=67746) [![Code](https://img.shields.io/badge/Code-blue)](https://rflysim.com/doc/zh/C/5.FW_Book.html)
 
+- <strong>S. Lv</strong>, X. Dai, Q. Quan (2026). Trajectory Planning and Differential Flatness Control Experiment. In: Micro-Small Fixed-Wing UAV Control. <strong>Springer, Singapore<strong>. [![PHEI Book](https://img.shields.io/badge/Chapter-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5_8)
+
 <div class="image-row">
+    <img src="/static/assets/img/fixed-wing-book-en.png" alt="" class="pub-img"> 
     <img src="/static/assets/img/fixed-wing-book.png" alt="" class="pub-img">
     <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
 </div>
