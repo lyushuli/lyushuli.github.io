@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>,  41, 5624-5644. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11164953)
+- <strong>S. Lv</strong>, Y. Gao, and Q. Quan (2025). High-Efficiency Vector Field by Time-Optimal Spatial Iterative Learning. <strong>IEEE Transactions on Robotics</strong>, 41, 5624-5644. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11164953)
 [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=2SIlN8J5JVo)
 
 <div class="image-row">
@@ -8,7 +8,7 @@
     <img src="static/assets/img/High-tro-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian System and Its Application to Quadcoptor. (Submitted to <i>IEEE Transactions on Automation Science and Engineering</i>, accept).
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian Systems and Its Application to Quadcopters. <i>IEEE Transactions on Automation Science and Engineering</i>, early access. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11488637)
 
 <div class="image-row">
     <img src="/static/assets/img/time-tase-sim.png" alt="" class="pub-img">
