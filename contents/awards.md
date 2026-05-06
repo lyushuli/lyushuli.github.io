@@ -23,17 +23,21 @@
 
 - ​​First Prize​​, 30th Beijing Undergraduate Mathematics Competition (2021)
 
+#### Academic
+
+- <strong>ICRA 2026 Best Paper Finalist​</strong>​ (2026)
+
+- <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
+
 #### Scholarship and Honor
 
-- SEGWAY-NINEBOT scholarship (Grand Prize) (2025)
+- SEGWAY-NINEBOT scholarship (Grand Prize) (2025, Top 0.2%)
 
 - Beihang University Outstanding Student Award (2024, 2025)
 
 - Student Representative of the Freshman Class (School of Automation Science and Electrical Engineering, Beihang University)
 
 - Honors Graduate of Beihang University
-
-- <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
 
 - <strong>​National Scholarship</strong>​​ (2021, Top 1%)
 
