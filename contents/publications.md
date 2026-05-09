@@ -94,7 +94,7 @@
 </div>
 
 
-- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>).
+- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, reject and resubmit).
 
 <div class="image-row">
     <img src="/static/assets/img/landing-tie-drone.png" alt="" class="pub-img">
