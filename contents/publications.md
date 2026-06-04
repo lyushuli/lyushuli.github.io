@@ -16,7 +16,6 @@
     <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
 </div>
 
-
 - <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10589420) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1iRC7BDEi9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c3089b856243f317a44eaee6f223b775)
     
@@ -69,7 +68,7 @@
 </div>
 
 
-- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper Finalist</strong>).
+- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper</strong>).
 
 <div class="image-row">
     <img src="/static/assets/img/planar-icra-drone.png" alt="" class="pub-img">

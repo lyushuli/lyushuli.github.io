@@ -25,7 +25,7 @@
 
 #### Academic
 
-- <strong>ICRA 2026 Best Paper Finalist​</strong>​ (2026)
+- <strong>ICRA 2026 Best Paper</strong>​ (2026)
 
 - <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
 
