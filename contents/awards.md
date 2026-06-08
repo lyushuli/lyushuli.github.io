@@ -27,8 +27,8 @@
 
 - <strong>ICRA 2026 Best Paper</strong>​ (2026) [![News](https://img.shields.io/badge/News-FFA500)](https://2026.ieee-icra.org/awards/) 
 <div class="image-row">
-    <img src="/static/assets/img/icra-best.jpg" alt="" class="pub-img" style="height:200px">
-    <img src="/static/assets/img/icra-best-award.jpg" alt="" class="pub-img" style="height:200px">
+    <img src="/static/assets/img/icra-best.jpg" alt="" class="pub-img" style="height:250px">
+    <img src="/static/assets/img/icra-best-award.jpg" alt="" class="pub-img" style="height:250px">
 </div>
 
 
