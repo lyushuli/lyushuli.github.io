@@ -21,8 +21,8 @@
     
 
 <div class="image-row">
-    <img src="/static/assets/img/mean-lcss-tube.png" alt="" class="pub-img">
-    <img src="/static/assets/img/mean-lcss.png" alt="" class="pub-img">
+    <img src="/static/assets/img/mean-lcss-tube.png" alt="" class="pub-img" style="height:200px">
+    <img src="/static/assets/img/mean-lcss.png" alt="" class="pub-img" style="height:200px">
 </div>
 
 - <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>2023 IEEE International Conference on Robotics and Automation (ICRA)</strong>, London, United Kingdom, 3197-3203. 

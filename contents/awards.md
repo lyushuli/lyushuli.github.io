@@ -26,6 +26,10 @@
 #### Academic
 
 - <strong>ICRA 2026 Best Paper</strong>​ (2026)
+<div class="image-row">
+    <img src="/static/assets/img/icra-best.jpg" alt="" class="pub-img" style="height:200px">
+</div>
+
 
 - <strong>Beijing Outstanding Undergraduate Thesis Award​</strong>​ (Top Tier, 2022)
 
