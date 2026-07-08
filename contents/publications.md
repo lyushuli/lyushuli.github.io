@@ -67,7 +67,8 @@
     <img src="/static/assets/img/distributed-tnse-exp.png" alt="" class="pub-img">
 </div>
 
-- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper</strong>).
+- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper</strong>). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.10639)
+
 
 <div class="image-row">
     <img src="/static/assets/img/planar-icra-drone.png" alt="" class="pub-img">
