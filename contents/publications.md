@@ -67,7 +67,6 @@
     <img src="/static/assets/img/distributed-tnse-exp.png" alt="" class="pub-img">
 </div>
 
-
 - L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper</strong>).
 
 <div class="image-row">
@@ -75,6 +74,12 @@
     <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
 </div>
 
+- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>IEEE Robotics and Automation Letters</strong>, Early Access. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.31487)
+
+<div class="image-row">
+    <img src="/static/assets/img/energy-drone.png" alt="" class="pub-img">
+    <img src="/static/assets/img/energy-real.png" alt="" class="pub-img">
+</div>
 
 #### Submitted
 
@@ -83,13 +88,6 @@
 <div class="image-row">
     <img src="/static/assets/img/efficient-mao-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/efficient-mao-exp.png" alt="" class="pub-img">
-</div>
-
-- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube.  (Submitted to <i>IEEE Robotics and Automation Letters</i>, major revision).
-
-<div class="image-row">
-    <img src="/static/assets/img/energy-drone.png" alt="" class="pub-img">
-    <img src="/static/assets/img/energy-real.png" alt="" class="pub-img">
 </div>
 
 
