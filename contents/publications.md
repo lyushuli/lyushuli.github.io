@@ -99,9 +99,18 @@
     <img src="/static/assets/img/landing-tie-real.png" alt="" class="pub-img">
 </div>
 
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2608.24618) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/lyushuli/VIP)
+
+<div class="image-row">
+    <img src="/static/assets/img/submit-ijr.png" alt="" class="pub-img">
+</div>
+
+- H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <i>Proceedings of the AAAI Conference on Artificial Intelligence 2027</i>, under review).
 
 #### Coming soon
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.
+Policy Iteration Learning.
+
+Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance.
 
 
