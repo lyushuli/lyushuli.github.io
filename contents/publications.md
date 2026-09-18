@@ -75,7 +75,7 @@
     <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
 </div>
 
-- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan. Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>IEEE Robotics and Automation Letters</strong>, Early Access. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.31487)
+- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan (2026). Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>IEEE Robotics and Automation Letters</strong>, 11(9), 10210-10217. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.31487) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11601003) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1NjY56eEL6/)
 
 <div class="image-row">
     <img src="/static/assets/img/energy-drone.png" alt="" class="pub-img">
@@ -107,7 +107,12 @@
 
 - H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <i>Proceedings of the AAAI Conference on Artificial Intelligence 2027</i>, under review).
 
-- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](http://arxiv.org/abs/2609.20435)
+- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36)
+
+<div class="image-row">
+    <img src="/static/assets/img/dilp-tie-real.png" alt="" class="pub-img">
+    <img src="/static/assets/img/dilp-tie-multi.png" alt="" class="pub-img">
+</div>
 
 #### Coming soon
 
