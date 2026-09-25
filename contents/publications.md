@@ -107,7 +107,7 @@
 
 - H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <i>Proceedings of the AAAI Conference on Artificial Intelligence 2027</i>, under review).
 
-- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36)
+- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/WLM-boop/D-ILP)
 
 <div class="image-row">
     <img src="/static/assets/img/dilp-tie-real.png" alt="" class="pub-img">
