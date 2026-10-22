@@ -74,6 +74,17 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+html[lang="zh"] section .main-body {
+    color: #212529;
+    font-family: "Microsoft YaHei", "Noto Sans SC", "PingFang SC", sans-serif;
+    font-weight: 400;
+}
+
+html[lang="zh"] section header h2 {
+    font-family: "Microsoft YaHei", "Noto Sans SC", "PingFang SC", sans-serif !important;
+    font-weight: 600;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
@@ -157,6 +168,10 @@ section .main-body{
     section .main-body {
         font-size: 1rem;
         line-height: 1.8rem;
+    }
+
+    html[lang="zh"] section .main-body {
+        font-weight: 400;
     }
 
     .image-row img.pub-img,
