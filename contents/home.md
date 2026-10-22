@@ -11,7 +11,8 @@ I, Shuli Lv, am a PhD candidate at Rfly Lab (rfly.buaa.edu.cn) of Beihang Univer
 Email: lvshuli@buaa.edu.cn
 
 #### Education
-Ph.D. Student,  School of Automation Science and Electrical Engineering, Beihang University, 2024-now.
+Visiting Ph.D. Student, Prisma Lab, University of Naples Federico II, 2026-now. \
+Ph.D. Student, School of Automation Science and Electrical Engineering, Beihang University, 2024-now.
 \
 M.S.,  School of Automation Science and Electrical Engineering, Beihang University, 2022—2024.\
 B.S., SHENYUAN Honors College, Beihang University, 2018-2022. GPA: 3.90 (Rank 2)

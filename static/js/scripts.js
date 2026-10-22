@@ -17,7 +17,7 @@ function getLanguage() {
     let savedLanguage
     try { savedLanguage = window.localStorage.getItem('site-language') } catch {}
     if (supported_languages.includes(savedLanguage)) return savedLanguage
-    return (navigator.language || '').toLowerCase().startsWith('zh') ? 'zh' : 'en'
+    return 'en'
 }
 
 function loadMarkdown(name, language) {

@@ -120,7 +120,52 @@ section .main-body{
 
 #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
+    max-width: 32vw;
+    object-fit: cover;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.main-body {
+    overflow-wrap: anywhere;
+}
+
+.main-body img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-row {
+    max-width: 100%;
+}
+
+.image-row img.pub-img,
+.image-row img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 640px) {
+    .container.px-5 {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    section header h2 {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+
+    section .main-body {
+        font-size: 1rem;
+        line-height: 1.8rem;
+    }
+
+    .image-row img.pub-img,
+    .image-row img {
+        height: auto !important;
+        max-height: 180px;
+        width: auto;
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 991px) {
