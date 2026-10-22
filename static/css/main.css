@@ -7,6 +7,12 @@
     --page-max-width-xxl: 1520px;
 }
 
+.language-toggle {
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+
 @media (min-width: 1200px) {
     .container {
         max-width: var(--page-max-width-xl);

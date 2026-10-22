@@ -64,6 +64,15 @@ Fire up a browser and go to `https://<username>.github.io`
 
 
 
+## 中英文切换
+
+导航栏的“中文 / EN”按钮可即时切换语言，并记住访问者的选择。首次访问按浏览器语言显示，也可使用 `?lang=zh` 或 `?lang=en` 分享指定语言的页面。
+
+英文内容继续维护在 `contents/home.md`、`contents/publications.md` 和 `contents/awards.md`；中文内容维护在对应的 `*-zh.md` 文件中。缺少翻译文件时自动回退到原文件。论文题目和引用信息保留英文。
+
+页面配置的中文文本在 `contents/config.yml` 中使用同名键加 `-zh` 后缀。
+
+
 ## License
 
 Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.

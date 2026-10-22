@@ -25,6 +25,8 @@
 
 #### Academic
 
+- <strong>Supported by the China Association for Science and Technology Young Scientific and Technological Talents Cultivation Project​</strong>​ 
+
 - <strong>Supported by the China Scholarship Council​</strong>​ 
 
 - <strong>Supported by the Academic Excellence Funding of BUAA for PhD Students​</strong>​ 
@@ -39,6 +41,8 @@
 
 #### Scholarship and Honor
 
+- <strong>​National Scholarship</strong>​ for Doctoral Students​ (2026)
+
 - SEGWAY-NINEBOT scholarship (Grand Prize) (2025, Top 0.2%)
 
 - Beihang University Outstanding Student Award (2024, 2025)
@@ -47,7 +51,7 @@
 
 - Honors Graduate of Beihang University
 
-- <strong>​National Scholarship</strong>​​ (2021, Top 1%)
+- <strong>​National Scholarship</strong>​​ for Undergraduates (2021, Top 1%)
 
 - ​​CETC The 14TH Research Institute Glarun Scholarship (2024)
 
