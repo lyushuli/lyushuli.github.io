@@ -1,6 +1,6 @@
 #### 竞赛奖励
 
-- <strong>全国特等奖（第一名）</strong>，第十九届“挑战杯”竞赛，“受限环境下无人机集群搜索”（团队负责人，2024）。[![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/64028.htm)
+- <strong>全国特等奖</strong>，第十九届“挑战杯”竞赛，“拒止环境下无人机集群搜索”（团队负责人，2024）。[![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/64028.htm)
 
 <div class="image-row">
     <img src="/static/assets/img/tzb-award.jpg" alt="" class="pub-img">
@@ -8,7 +8,7 @@
     <img src="/static/assets/img/tzb-photo.jpg" alt="" class="pub-img">
 </div>
 
-- <strong>全国冠军（一等奖）</strong>，RoboMaster 无人机智能感知挑战赛（2022），另获自主飞行二等奖、速度挑战三等奖及开源创新奖。[![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/57482.htm) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/RflyBUAA/zzfly-2022-real-share)
+- <strong>全国冠军（一等奖）</strong>，RoboMaster 无人飞行器智能感知挑战赛（2022），另获自主飞行二等奖、速度挑战三等奖及开源创新奖。[![News](https://img.shields.io/badge/News-FFA500)](https://news.buaa.edu.cn/info/1002/57482.htm) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/RflyBUAA/zzfly-2022-real-share)
 
 <div class="image-row">
     <img src="/static/assets/img/robmaster1.png" alt="" class="pub-img" style="height:200px">
@@ -29,7 +29,7 @@
 
 - <strong>获国家留学基金管理委员会资助。</strong>
 
-- <strong>获北京航空航天大学博士研究生学术优秀资助。</strong>
+- <strong>获北京航空航天大学博士研究生卓越学术基金资助。</strong>
 
 - <strong>ICRA 2026 最佳论文奖</strong>（2026）。[![News](https://img.shields.io/badge/News-FFA500)](https://2026.ieee-icra.org/awards/)
 <div class="image-row">
