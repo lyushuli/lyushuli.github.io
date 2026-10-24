@@ -2,7 +2,7 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YXrppsYAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1854-6488)
 
-我叫吕书礼，是北京航空航天大学 [Rfly Lab](https://rfly.buaa.edu.cn/) 的博士研究生，导师是全权教授。我提出了面向机器人导航的时间最优空间迭代学习概念，研究方向是引入泛函变化实现迭代学习、利用扩散方法解决导航问题，并进一步开展单智能体与多智能体智能系统的工程实现。
+我叫吕书礼，是北京航空航天大学 [Rfly Lab](https://rfly.buaa.edu.cn/) 的博士研究生，导师是全权教授。我提出了面向移动机器人运动规划的时间最优空间迭代学习概念，研究方向是引入泛函变分实现迭代学习、利用扩散方法解决移动机器人导航问题，并进一步开展单智能体与多智能体智能系统的工程实现。
 
 #### 联系方式
 
