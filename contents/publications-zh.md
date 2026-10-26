@@ -8,7 +8,7 @@
     <img src="static/assets/img/High-tro-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian Systems and Its Application to Quadcopters. <i>IEEE Transactions on Automation Science and Engineering</i>, 23, 8556-8570. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11488637)
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian Systems and Its Application to Quadcopters. <strong>IEEE Transactions on Automation Science and Engineering</strong>, 23, 8556-8570. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11488637)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1DpoeB9EzC/?spm_id_from=333.337.search-card.all.click)
 
 <div class="image-row">
@@ -16,7 +16,7 @@
     <img src="/static/assets/img/time-tase-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <i>IEEE Control Systems Letters</i>, 8, 2021-2026. 
+- <strong>S. Lv</strong>, P. Mao, and Q. Quan (2024). Mean-Field Based Time-Optimal Spatial Iterative Learning Within a Virtual Tube. <strong>IEEE Control Systems Letters</strong>, 8, 2021-2026. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10589420) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1iRC7BDEi9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c3089b856243f317a44eaee6f223b775)
     
 
@@ -25,7 +25,7 @@
     <img src="/static/assets/img/mean-lcss.png" alt="" class="pub-img" style="height:200px">
 </div>
 
-- <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <i>2023 IEEE International Conference on Robotics and Automation (ICRA)</i>, London, United Kingdom, 3197-3203. 
+- <strong>S. Lv</strong>, Y. Gao, J. Che, and Q. Quan (2023). Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>2023 IEEE International Conference on Robotics and Automation (ICRA)</strong>, London, United Kingdom, 3197-3203. 
 [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/10161383) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2306.15992) [![Code](https://img.shields.io/badge/Code-blue)](https://gitee.com/rfly_buaa/control-within-virtual-tubes) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=qGTPGCLu2UQ&t=6s)
 
 <div class="image-row">
@@ -33,18 +33,18 @@
     <img src="/static/assets/img/autonomous-icra-exp.png" alt="" class="pub-img">
 </div>
 
-- P. Mao, <strong>S. Lv</strong>, and Q. Quan (2025). Tube-RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments. <i>IEEE Robotics and Automation Letters</i>, 10(3), 2247-2254. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10844529/)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2404.09200) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/MorePanda123/TubeRRT) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=xDccyfEWrNc)
+- P. Mao, <strong>S. Lv</strong>, and Q. Quan (2025). Tube-RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments. <strong>IEEE Robotics and Automation Letters</strong>, 10(3), 2247-2254. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/10844529/)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2404.09200) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/MorePanda123/TubeRRT) [![Video](https://img.shields.io/badge/Youtube-8A2BE2)](https://www.youtube.com/watch?v=xDccyfEWrNc)
 
 <div class="image-row">
     <img src="/static/assets/img/tube-ral-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/tube-ral-exp-multi.png" alt="" class="pub-img">
 </div>
 
-- Q. Quan, W. Gao, R. Liu, X. Chen, X. Dai, <strong>S. Lv</strong>, L. Xu, Y. Li (2026). Micro-Small Fixed-Wing UAV Control: Design and Practice. <i>Springer, Singapore</i>. [![PHEI Book](https://img.shields.io/badge/Book-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5)
+- Q. Quan, W. Gao, R. Liu, X. Chen, X. Dai, <strong>S. Lv</strong>, L. Xu, Y. Li (2026). Micro-Small Fixed-Wing UAV Control: Design and Practice. <strong>Springer, Singapore</strong>. [![PHEI Book](https://img.shields.io/badge/Book-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5)
 
-- 全权, 高文瀚, 刘润潇, 陈鑫泉, 戴训华, <strong>吕书礼</strong>, 徐琳, 李悦 (2025). 微小型固定翼无人机飞行控制设计与实践. <i>电子工业出版社</i>. [![PHEI Book](https://img.shields.io/badge/Buy-2A5CAA?logo=azurepipelines&logoColor=white)](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=67746) [![Code](https://img.shields.io/badge/Code-blue)](https://rflysim.com/doc/zh/C/5.FW_Book.html)
+- 全权, 高文瀚, 刘润潇, 陈鑫泉, 戴训华, <strong>吕书礼</strong>, 徐琳, 李悦 (2025). 微小型固定翼无人机飞行控制设计与实践. <strong>电子工业出版社</strong>. [![PHEI Book](https://img.shields.io/badge/Buy-2A5CAA?logo=azurepipelines&logoColor=white)](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=67746) [![Code](https://img.shields.io/badge/Code-blue)](https://rflysim.com/doc/zh/C/5.FW_Book.html)
 
-- <strong>S. Lv</strong>, X. Dai, Q. Quan (2026). Trajectory Planning and Differential Flatness Control Experiment. In: Micro-Small Fixed-Wing UAV Control. <i>Springer, Singapore</i>. [![PHEI Book](https://img.shields.io/badge/Chapter-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5_8) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1Lz9jBuEwc/?spm_id_from=333.337.search-card.all.click)
+- <strong>S. Lv</strong>, X. Dai, Q. Quan (2026). Trajectory Planning and Differential Flatness Control Experiment. In: Micro-Small Fixed-Wing UAV Control. <strong>Springer, Singapore</strong>. [![PHEI Book](https://img.shields.io/badge/Chapter-2A5CAA?logo=azurepipelines&logoColor=white)](https://doi.org/10.1007/978-981-95-1954-5_8) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1Lz9jBuEwc/?spm_id_from=333.337.search-card.all.click)
 
 <div class="image-row">
     <img src="/static/assets/img/fixed-wing-book-en.png" alt="" class="pub-img"> 
@@ -52,7 +52,7 @@
     <img src="/static/assets/img/fixed-wing-sim.png" alt="" class="pub-img">
 </div>
 
-- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control.  <i>IEEE Transactions on Control System Technology</i>, 34(2), 1082-1088. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11353120/)
+- Y. Zhang, <strong>S. Lv</strong>, K. Liu, Q. Liang, Q. Quan, and Z. She (2026). Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control.  <strong>IEEE Transactions on Control System Technology</strong>, 34(2), 1082-1088. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2501.11938) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/Yongwei-Zhang/Narrow-Virtual-Tube-Navigation) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11353120/)
 
 
 <div class="image-row">
@@ -60,14 +60,14 @@
     <img src="/static/assets/img/navigating-tcst-exp1.png" alt="" class="pub-img">
 </div>
 
-- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. <i>IEEE Transactions on Network Science and Engineering</i>, 13, 5905-5923. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11352988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
+- R. Liu, X. Le, S. Gu, <strong>S. Lv</strong>, P. Mao, and Q. Quan (2026). Distributed Network Control of Multi-UAV Systems for Cooperative Heavy-Load Transport Using a Virtual-Passivity Framework. <strong>IEEE Transactions on Network Science and Engineering</strong>, 13, 5905-5923. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11352988/) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11prhBAEQf/?spm_id_from=333.337.search-card.all.click&vd_source=c3089b856243f317a44eaee6f223b775)
 
 <div class="image-row">
     <img src="/static/assets/img/distributed-tnse-sim.png" alt="" class="pub-img">
     <img src="/static/assets/img/distributed-tnse-exp.png" alt="" class="pub-img">
 </div>
 
-- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <i>2026 IEEE International Conference on Robotics and Automation (ICRA)</i>, Vienna. (<strong> Oral Presentation, Best Paper</strong>). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.10639)
+- L. Liu, K. Yang, H. Zou, C. Min, <strong>S. Lv</strong>, S. Wang, and Q. Quan (2026). Planar-Sector LOS Guidance for Interception of Agile Targets with Lifting-Wing Quadcopters. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>, Vienna. (<strong> Oral Presentation, Best Paper</strong>). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.10639)
 
 
 <div class="image-row">
@@ -75,7 +75,7 @@
     <img src="/static/assets/img/planar-icra-exp.png" alt="" class="pub-img">
 </div>
 
-- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan (2026). Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube. <i>IEEE Robotics and Automation Letters</i>, 11(9), 10210-10217. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.31487) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11601003) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1NjY56eEL6/)
+- C. Min, <strong>S. Lv</strong>, P. Mao, H. Cao, L. Hong, and Q. Quan (2026). Energy-Optimal Spatial Iterative Learning Control within a Virtual Tube. <strong>IEEE Robotics and Automation Letters</strong>, 11(9), 10210-10217. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2606.31487) [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/abstract/document/11601003) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1NjY56eEL6/)
 
 <div class="image-row">
     <img src="/static/assets/img/energy-drone.png" alt="" class="pub-img">
@@ -84,7 +84,7 @@
 
 #### 已投稿
 
-- P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <i>arXiv preprint arXiv:2505.01380</i> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
+- P. Mao, <strong>S. Lv</strong>, C. Min, Z. Shen, and Q. Quan (2025). An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube. <strong>arXiv preprint arXiv:2505.01380</strong> (Submitted to <i>IEEE Transactions on Robotics</i>, under review).  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2505.01380)
 
 <div class="image-row">
     <img src="/static/assets/img/efficient-mao-sim.png" alt="" class="pub-img">
@@ -92,29 +92,29 @@
 </div>
 
 
-- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, reject and resubmit).
+- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <strong>IEEE Transactions on Industrial Electronics</strong>, reject and resubmit).
 
 <div class="image-row">
     <img src="/static/assets/img/landing-tie-drone.png" alt="" class="pub-img">
     <img src="/static/assets/img/landing-tie-real.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.  (Submitted to <i>International Journal of Robotics Research</i>, under review) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2608.24618) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/lyushuli/VIP)
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.  (Submitted to <strong>International Journal of Robotics Research</strong>, under review) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2608.24618) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/lyushuli/VIP)
 
 <div class="image-row">
     <img src="/static/assets/img/submit-ijr.png" alt="" class="pub-img">
 </div>
 
-- H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <i>Proceedings of the AAAI Conference on Artificial Intelligence 2027</i>, under review).
+- H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <strong>Proceedings of the AAAI Conference on Artificial Intelligence 2027</strong>, under review).
 
-- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE/ASME Transactions on Mechatronics</i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/WLM-boop/D-ILP)
+- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics</strong>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/WLM-boop/D-ILP)
 
 <div class="image-row">
     <img src="/static/assets/img/dilp-tie-real.png" alt="" class="pub-img">
     <img src="/static/assets/img/dilp-tie-multi.png" alt="" class="pub-img">
 </div>
 
-- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <i>IEEE/ASME Transactions on Mechatronics </i>, under review).
+- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics </strong>, under review).
 <div class="image-row">
     <img src="/static/assets/img/ISBNMPC-real2.png" alt="" class="pub-img">
 </div>

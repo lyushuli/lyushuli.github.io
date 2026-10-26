@@ -8,7 +8,7 @@
     <img src="static/assets/img/High-tro-exp.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian Systems and Its Application to Quadcopters. <i>IEEE Transactions on Automation Science and Engineering</i>, 23, 8556-8570. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11488637)
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, Y. Liu, and Q. Quan (2026). Time-Optimal Iterative Learning Planning for Lagrangian Systems and Its Application to Quadcopters. <strong>IEEE Transactions on Automation Science and Engineering</strong>, 23, 8556-8570. [![IEEE](https://img.shields.io/badge/IEEE-%23007C9B)](https://ieeexplore.ieee.org/document/11488637)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1DpoeB9EzC/?spm_id_from=333.337.search-card.all.click)
 
 <div class="image-row">
@@ -92,29 +92,29 @@
 </div>
 
 
-- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <i>IEEE Transactions on Industrial Electronics</i>, reject and resubmit).
+- H. Cao, <strong>S. Lv</strong>, P. Mao, C. Min, S. Wang, and Q. Quan. Autonomous Landing of Lifting-Wing Quadcopters Based on Spatial Iterative Learning Planning with Terminal Constraints. (Submitted to <strong>IEEE Transactions on Industrial Electronics</strong>, reject and resubmit).
 
 <div class="image-row">
     <img src="/static/assets/img/landing-tie-drone.png" alt="" class="pub-img">
     <img src="/static/assets/img/landing-tie-real.png" alt="" class="pub-img">
 </div>
 
-- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.  (Submitted to <i>International Journal of Robotics Research</i>, under review) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2608.24618) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/lyushuli/VIP)
+- <strong>S. Lv</strong>, P. Mao, C. Min, L. Hong, R. Liu, S. Wang, and Q. Quan. VIP: Variation Based Iterative Learning Planning for Robotic Navigation.  (Submitted to <strong>International Journal of Robotics Research</strong>, under review) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2608.24618) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/lyushuli/VIP)
 
 <div class="image-row">
     <img src="/static/assets/img/submit-ijr.png" alt="" class="pub-img">
 </div>
 
-- H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <i>Proceedings of the AAAI Conference on Artificial Intelligence 2027</i>, under review).
+- H. Cao, <strong>S. Lv</strong>, Z. Shen, Z. Yan, and Q. Quan. GMM-D-Learning: From Black-Box Dynamics to Stabilizing Neural Control. (Submitted to <strong>Proceedings of the AAAI Conference on Artificial Intelligence 2027</strong>, under review).
 
-- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <i>IEEE/ASME Transactions on Mechatronics </i>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/WLM-boop/D-ILP)
+- Z. Chen, <strong>S. Lv</strong>, C. Min, Y. Xu, J. Sun, and Q. Quan. Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics </strong>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2609.20435) [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?logo=bilibili&logoColor=white)](https://b23.tv/BV1MDeu6fE36) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/WLM-boop/D-ILP)
 
 <div class="image-row">
     <img src="/static/assets/img/dilp-tie-real.png" alt="" class="pub-img">
     <img src="/static/assets/img/dilp-tie-multi.png" alt="" class="pub-img">
 </div>
 
-- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <i>IEEE/ASME Transactions on Mechatronics </i>, under review).
+- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics </strong>, under review).
 <div class="image-row">
     <img src="/static/assets/img/ISBNMPC-real2.png" alt="" class="pub-img">
 </div>
