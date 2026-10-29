@@ -114,7 +114,7 @@
     <img src="/static/assets/img/dilp-tie-multi.png" alt="" class="pub-img">
 </div>
 
-- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics </strong>, under review).
+- L. Hong, L. Liu, X. Ren, <strong>S. Lv</strong>, C. Min, C. Wu, Y. Zhang, D. Zeng, and Q Quan. ISB-NMPC: Interception-Oriented Spherical-Bearing Nonlinear Model Predictive Control for Quadrotors. (Submitted to <strong>IEEE/ASME Transactions on Mechatronics </strong>, under review). [![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2610.34789)
 <div class="image-row">
     <img src="/static/assets/img/ISBNMPC-real2.png" alt="" class="pub-img">
 </div>
